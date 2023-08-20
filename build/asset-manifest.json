@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f3e9b7a.css",
+    "main.js": "/static/js/main.b667d9d1.js",
+    "static/media/shoe-2_1.jpg": "/static/media/shoe-2_1.c32741705a72ec1c74b2.jpg",
+    "static/media/jewellery-1.jpg": "/static/media/jewellery-1.e3f6f6a90258ed730886.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.cfeba525561ff2e803bb.jpg",
+    "static/media/jacket-2.jpg": "/static/media/jacket-2.1abdc5041c588a1c9309.jpg",
+    "static/media/sports-3.jpg": "/static/media/sports-3.dfc66e95616607dc7ee7.jpg",
+    "static/media/shampoo.jpg": "/static/media/shampoo.e7dc678a17a611e75ebd.jpg",
+    "static/media/jacket-5.jpg": "/static/media/jacket-5.fe5ee145f801eec33338.jpg",
+    "static/media/watch-1.jpg": "/static/media/watch-1.5f8c8f8a46b23f7c1c0d.jpg",
+    "static/media/sports-5.jpg": "/static/media/sports-5.585e4543f374f1b26c55.jpg",
+    "static/media/clothes-4.jpg": "/static/media/clothes-4.a8f72370d006cfa26086.jpg",
+    "static/media/perfume.jpg": "/static/media/perfume.f1ca8314150341c7999d.jpg",
+    "index.html": "/index.html",
+    "main.2f3e9b7a.css.map": "/static/css/main.2f3e9b7a.css.map",
+    "main.b667d9d1.js.map": "/static/js/main.b667d9d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3e9b7a.css",
+    "static/js/main.b667d9d1.js"
+  ]
+}
